@@ -36,8 +36,8 @@ The given dataset is contained in three files :
 
 ### 3. Executive Summary
 #### Problem Statements :
-  - Question 1. Is there any different in customers' demographic that respond best to a specific type of offer ?
-  - Question 2. Which offers should be recommended and sent to a particular customer to increase the sales ?
+  - **Question 1. Is there any different in customers' demographic that respond best to a specific type of offer ?**
+  - **Question 2. Which offers should be recommended and sent to a particular customer to increase the sales ?**
 1. *"StarbucksCapstoneChallengeProject.ipynb"* is capturing the program scripting details especially on data understanding, exploration, cleaning and modeling (if relevant) part.
 2. *Blog post [Now everyone can enjoy "Starbucks"…](https://medium.com/@eyanney.ang/now-everyone-can-enjoy-starbucks-14f00df74a72)* is mainly summarizing the business objective, methodology and its executive summary.
 
